@@ -1,5 +1,7 @@
 # discv4-dns-lists
 
+[![Join the chat at https://gitter.im/discv4-dns-lists/community](https://badges.gitter.im/discv4-dns-lists/community.svg)](https://gitter.im/discv4-dns-lists/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains [EIP-1459][EIP-1459] node lists built by the go-ethereum devp2p
 tool. These lists are published to the ethdisco.net DNS name.
 
